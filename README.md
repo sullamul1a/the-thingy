@@ -1,2 +1,2 @@
 # the-thingy
-The start of something unshure
+The start of something unsure
